@@ -1,0 +1,21 @@
+TODO
+----
+
+- [x] Hijack DNS requests
+  - `echo 'address=/#/192.168.101.1' >> /etc/dnsmasq.conf`
+- [ ] Hijack IP connections, or prevent forwarding
+- [ ] Wifi
+  - [ ] meshnet.berlin, plaintext Access Point, Ch13
+- [ ] The actual splash page
+  - [ ] Copy text
+  - [ ] Styling
+- [ ] Packages
+  - [ ] USB storage
+  - [ ] .deb
+  - [ ] .apk
+  - [ ] .rpm
+  - [ ] .dmg
+- [ ] Peering with Hyperboria
+  - [ ] via WAN port
+  - [ ] via USB dongle
+- [ ] Find a use for the 3G/WISP/AP switch
